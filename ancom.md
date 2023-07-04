@@ -1,4 +1,4 @@
 ---
 layout: forward
-target: https://www.instagram.com/animalcommunicator_ancom/
+target: https://shopee.co.id/ontuh
 ---
