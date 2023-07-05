@@ -1,4 +1,4 @@
-# Redirecting with GitHub pages
+# Redirec
 
 This is a quick demo showing you how you can redirect markdown files in GitHub pages using an HTML template. You can check the [source code and fork/change it to your needs](https://github.com/codepo8/github-redirection-demo/).
 
